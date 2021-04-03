@@ -1,0 +1,96 @@
+LEMMA	POS	USEMID	SYNSETID	SENSEID	DEFINIZIONE PSC	DEFINIZIONE IWN	SIMILARITY
+abbandonare	VERB	USem59592abbandonare	33547	46122	cessare di fare qualcosa.	piegare, lasciare cadere una parte del corpo.	0.7088299044243955
+abbandonare	VERB	USem59592abbandonare	33777	46530	cessare di fare qualcosa.	lasciare definitivamente qualcuno, anche lasciare senza aiuto, sostegno e sim.	0.7194057160918411
+abbandonare	VERB	USem59592abbandonare	33778	46533	cessare di fare qualcosa.	desistere da un'impresa, cessare di fare qualcosa o di prendersi cura di qualcosa.	0.8752662162122539
+abbandonare	VERB	USem59592abbandonare	33779	46534	cessare di fare qualcosa.	lasciare andare qualcosa, abbandonando la presa.	0.6938128072155588
+abbandonare	VERB	USem73115abbandonare	33547	46122	lasciare.	piegare, lasciare cadere una parte del corpo.	0.6568423471703716
+abbandonare	VERB	USem73115abbandonare	33777	46530	lasciare.	lasciare definitivamente qualcuno, anche lasciare senza aiuto, sostegno e sim.	0.6286841850640134
+abbandonare	VERB	USem73115abbandonare	33778	46533	lasciare.	desistere da un'impresa, cessare di fare qualcosa o di prendersi cura di qualcosa.	0.5421336263236552
+abbandonare	VERB	USem73115abbandonare	33779	46534	lasciare.	lasciare andare qualcosa, abbandonando la presa.	0.6006288805517641
+abbandonare	VERB	USem79706abbandonare	33547	46122	far restare in un luogo.	piegare, lasciare cadere una parte del corpo.	0.6295836162852423
+abbandonare	VERB	USem79706abbandonare	33777	46530	far restare in un luogo.	lasciare definitivamente qualcuno, anche lasciare senza aiuto, sostegno e sim.	0.5823253875180168
+abbandonare	VERB	USem79706abbandonare	33778	46533	far restare in un luogo.	desistere da un'impresa, cessare di fare qualcosa o di prendersi cura di qualcosa.	0.6466448180767375
+abbandonare	VERB	USem79706abbandonare	33779	46534	far restare in un luogo.	lasciare andare qualcosa, abbandonando la presa.	0.5514711626655978
+aborto	NOUN	USem74956aborto	6762	11304	interruzione di gravidanza.	interruzione di gravidanza.	1.0
+aborto	NOUN	USem74956aborto	6763	11305	interruzione di gravidanza.	persona o cosa brutta o imperfetta.	0.4924210535220844
+aborto	NOUN	USem74956aborto	6764	11306	interruzione di gravidanza.	insuccesso, fallimento, cattiva riuscita di qualcosa.	0.7945190416686586
+acquisto	NOUN	USem7058acquisto	7415	12208	l'atto dell'acquistare.	la cosa acquistata con una spesa.	0.2562326699359982
+acquisto	NOUN	USem7058acquisto	11833	18185	l'atto dell'acquistare.	L'atto con cui si compra qualcosa.	0.6653883304356638
+adattamento	NOUN	USem73762adattamento	6510	10928	l'adattarsi.	trasposizione di un'opera da un linguaggio all'altro; trasposizione di un opera da un linguaggio ad un altro; trasposizione in un altro linguaggio.	0.3736810222995802
+adattamento	NOUN	USem73762adattamento	11115	17246	l'adattarsi.	atto dell'adattare o dell'adattarsi.	0.6301027427972831
+adattamento	NOUN	USem73762adattamento	11116	17247	l'adattarsi.	capacità degli esseri viventi di adattarsi all'ambiente circostante.	0.4402082581065897
+adattamento	NOUN	USem73762adattamento	11117	17248	l'adattarsi.	processo linguistico tramite il quale le parole straniere subiscono delle modifiche in conformità con la lingua che le riceve.	0.21755120455926188
+adattamento	NOUN	USem73763adattamento	6510	10928	l'adattare qualcosa ad altri elementi.	trasposizione di un'opera da un linguaggio all'altro; trasposizione di un opera da un linguaggio ad un altro; trasposizione in un altro linguaggio.	0.5681901549126591
+adattamento	NOUN	USem73763adattamento	11115	17246	l'adattare qualcosa ad altri elementi.	atto dell'adattare o dell'adattarsi.	0.6272158529517926
+adattamento	NOUN	USem73763adattamento	11116	17247	l'adattare qualcosa ad altri elementi.	capacità degli esseri viventi di adattarsi all'ambiente circostante.	0.6249626969432163
+adattamento	NOUN	USem73763adattamento	11117	17248	l'adattare qualcosa ad altri elementi.	processo linguistico tramite il quale le parole straniere subiscono delle modifiche in conformità con la lingua che le riceve.	0.3487851587154485
+americano	NOUN	USemTH01235americano	21749	26958	Abitante delle Americhe.	abitante dell'America.	0.6943524200347198
+americano	NOUN	USemTH01235americano	21750	26959	Abitante delle Americhe.	tipo di aperitivo.	0.6022617716262246
+americano	NOUN	USemTH01236americano	21749	26958	La lingua inglese parlata in America.	abitante dell'America.	0.4591013939466492
+americano	NOUN	USemTH01236americano	21750	26959	La lingua inglese parlata in America.	tipo di aperitivo.	0.35900617059462825
+causare	VERB	USemD5412causare	34753	44518	essere la causa di qlco; produrre, provocare.	essere causa di q.c.	0.8322377508240043
+causare	VERB	USemD5412causare	37922	50905	essere la causa di qlco; produrre, provocare.	far succedere, provocare.	0.6708772836480092
+colonna	NOUN	USem64597colonna	1372	2823	fila di cose o persone.	serie di persone, veicoli, cose allineate.	0.7791189132276729
+colonna	NOUN	USem64597colonna	18210	25973	fila di cose o persone.	elemento architettonico usato come sostegno o anche per abbellimento.	0.6572277262366854
+colonna	NOUN	USem64597colonna	18211	25974	fila di cose o persone.	gruppo di righe composte e non impaginate.	0.7361505037730182
+colonna	NOUN	USem64597colonna	18212	25975	fila di cose o persone.	si dice di varie cose verticali di forma allungata.	0.6598716302266461
+colonna	NOUN	USem64597colonna	50952	67231	fila di cose o persone.	persona che rappresenta un valido sostegno morale o economico.	0.6073531223570678
+colonna	NOUN	USem64598colonna	1372	2823	tutto cio' che serve a sostenere anche moralmente.	serie di persone, veicoli, cose allineate.	0.48517979888176943
+colonna	NOUN	USem64598colonna	18210	25973	tutto cio' che serve a sostenere anche moralmente.	elemento architettonico usato come sostegno o anche per abbellimento.	0.5746394799826766
+colonna	NOUN	USem64598colonna	18211	25974	tutto cio' che serve a sostenere anche moralmente.	gruppo di righe composte e non impaginate.	0.5130751099298287
+colonna	NOUN	USem64598colonna	18212	25975	tutto cio' che serve a sostenere anche moralmente.	si dice di varie cose verticali di forma allungata.	0.5196405240107116
+colonna	NOUN	USem64598colonna	50952	67231	tutto cio' che serve a sostenere anche moralmente.	persona che rappresenta un valido sostegno morale o economico.	0.5939291691015042
+colonna	NOUN	USemD7455colonna	1372	2823	elemento architettonico di sostegno a forma cilindrica.	serie di persone, veicoli, cose allineate.	0.6426993142450544
+colonna	NOUN	USemD7455colonna	18210	25973	elemento architettonico di sostegno a forma cilindrica.	elemento architettonico usato come sostegno o anche per abbellimento.	0.7148123590269322
+colonna	NOUN	USemD7455colonna	18211	25974	elemento architettonico di sostegno a forma cilindrica.	gruppo di righe composte e non impaginate.	0.6915433236813318
+colonna	NOUN	USemD7455colonna	18212	25975	elemento architettonico di sostegno a forma cilindrica.	si dice di varie cose verticali di forma allungata.	0.7032371304255586
+colonna	NOUN	USemD7455colonna	50952	67231	elemento architettonico di sostegno a forma cilindrica.	persona che rappresenta un valido sostegno morale o economico.	0.5909979769434648
+conseguire	VERB	USem63487conseguire	31865	41018	derivare, venire dopo come conseguenza.	avere principio, essere causato (fig.);  derivare, aver principio, origine, fondamento (fig.).	0.6738690591892866
+conseguire	VERB	USem63487conseguire	34560	44228	derivare, venire dopo come conseguenza.	derivare come conseguenza, conseguire.	0.9220920715858103
+conseguire	VERB	USem63487conseguire	37838	50787	derivare, venire dopo come conseguenza.	riuscire a conseguire un risultato.	0.49000513719179917
+conseguire	VERB	USem63488conseguire	31865	41018	riuscire a ottenere.	avere principio, essere causato (fig.);  derivare, aver principio, origine, fondamento (fig.).	0.28611201680027926
+conseguire	VERB	USem63488conseguire	34560	44228	riuscire a ottenere.	derivare come conseguenza, conseguire.	0.507904347143436
+conseguire	VERB	USem63488conseguire	37838	50787	riuscire a ottenere.	riuscire a conseguire un risultato.	0.7867113114915787
+conseguire	VERB	USem79276conseguire	31865	41018	raggiungere.	avere principio, essere causato (fig.);  derivare, aver principio, origine, fondamento (fig.).	0.6547949499788215
+conseguire	VERB	USem79276conseguire	34560	44228	raggiungere.	derivare come conseguenza, conseguire.	0.6889611340279901
+conseguire	VERB	USem79276conseguire	37838	50787	raggiungere.	riuscire a conseguire un risultato.	0.4764096628719076
+dovere	VERB	USem64787dovere	41130	55965	avere l'obbligo di fare qualcosa o di comportarsi in un certo modo.	avere l'obbligo di fare una determinata cosa.	0.8598854723426079
+dovere	VERB	USem64787dovere	41131	55966	avere l'obbligo di fare qualcosa o di comportarsi in un certo modo.	avere necessità, bisogno di fare qualcosa.	0.8280603994766615
+dovere	VERB	USem64787dovere	41132	55967	avere l'obbligo di fare qualcosa o di comportarsi in un certo modo.	essere debitore, dover restituire, anche fig.	0.666045741063431
+dovere	VERB	USemD76613dovere	41130	55965	essere tenuto a dare.	avere l'obbligo di fare una determinata cosa.	0.5354089130699952
+dovere	VERB	USemD76613dovere	41131	55966	essere tenuto a dare.	avere necessità, bisogno di fare qualcosa.	0.7214224691599764
+dovere	VERB	USemD76613dovere	41132	55967	essere tenuto a dare.	essere debitore, dover restituire, anche fig.	0.6469333310481928
+firmare	VERB	USemD65896firmare	34584	44266	scrivere la propria firma.	apporre la firma.	0.9489140842877237
+futuro	NOUN	USem1793futuro	4525	8036	cio' che avverrà.	il tempo futuro, l'avvenire.	0.2821491007751485
+futuro	NOUN	USem1793futuro	9480	13965	cio' che avverrà.	il tempo verbale.	0.2906442991873819
+imperatore	NOUN	USem64169imperatore	17021	24597	sovrano di un impero.	monarca assoluto.	0.6398189599604829
+imperatore	NOUN	USem64169imperatore	29501	38536	sovrano di un impero.	titolo di imperatore.	0.7363688546811522
+provocare	VERB	USem3932provocare	32124	41580	essere causa di qlco.; produrre, determinare, causare.	operare in modo da suscitare un determinato effetto.	0.5638477083157706
+provocare	VERB	USem3932provocare	34753	44516	essere causa di qlco.; produrre, determinare, causare.	essere causa di q.c.	0.8959883586065267
+provocare	VERB	USem3932provocare	34754	44522	essere causa di qlco.; produrre, determinare, causare.	far nascere un sentimento, un desiderio, provocare una certa reazione o comportamento.	0.6403499855296367
+provocare	VERB	USem3932provocare	34307	47478	essere causa di qlco.; produrre, determinare, causare.	incitare alla violenza, all'offesa.	0.6889512096489961
+provocare	VERB	USem64151provocare	32124	41580	spingere, irritare qualcuno con ingiurie o comportamento ostile.	operare in modo da suscitare un determinato effetto.	0.6641872682970698
+provocare	VERB	USem64151provocare	34753	44516	spingere, irritare qualcuno con ingiurie o comportamento ostile.	essere causa di q.c.	0.7391451481654567
+provocare	VERB	USem64151provocare	34754	44522	spingere, irritare qualcuno con ingiurie o comportamento ostile.	far nascere un sentimento, un desiderio, provocare una certa reazione o comportamento.	0.7742267536641239
+provocare	VERB	USem64151provocare	34307	47478	spingere, irritare qualcuno con ingiurie o comportamento ostile.	incitare alla violenza, all'offesa.	0.6827791951689718
+provocare	VERB	USem79719provocare	32124	41580	None.	operare in modo da suscitare un determinato effetto.	0.07191783629503658
+provocare	VERB	USem79719provocare	34753	44516	None.	essere causa di q.c.	0.2498930826837074
+provocare	VERB	USem79719provocare	34754	44522	None.	far nascere un sentimento, un desiderio, provocare una certa reazione o comportamento.	0.07176429643242528
+provocare	VERB	USem79719provocare	34307	47478	None.	incitare alla violenza, all'offesa.	0.16301019346132287
+ricavare	VERB	USem59861ricavare	33276	43851	trarre, ottenere spec. mediante una trasformazione.	ottenere un guadagno, una rendita o un vantaggio spec. economico.	0.7345066176388862
+ricavare	VERB	USem59861ricavare	50625	67685	trarre, ottenere spec. mediante una trasformazione.	ottenere un prodotto attraverso una modifica o una trasformazione.	0.803285206026676
+tabacco	NOUN	USem62383tabacco	24153	32773	prodotto ottenuto dalle foglie dell'omonima pianta; da fumo, da fiuto o da masticazione.	pianta erbacea da cui si ricava il prodotto per fumare.	0.6032583262509992
+tabacco	NOUN	USem62383tabacco	24154	32774	prodotto ottenuto dalle foglie dell'omonima pianta; da fumo, da fiuto o da masticazione.	il prodotto ottenuto dalle foglie di tabacco.	0.5693396654891874
+tabacco	NOUN	USem76924tabacco	24153	32773	tonalità di marrone.	pianta erbacea da cui si ricava il prodotto per fumare.	0.3417407079638141
+tabacco	NOUN	USem76924tabacco	24154	32774	tonalità di marrone.	il prodotto ottenuto dalle foglie di tabacco.	0.6928405950013472
+uccisione	NOUN	USem60112uccisione	16529	23989	L'uccidere, il venire ucciso.	Uccisione.	0.4048588277227073
+villaggio	NOUN	USem4123villaggio	14130	21060	piccolo paese di campagna, abitato umano nelle civilta' primitive.	piccolo centro abitato.	0.6905120007780096
+villaggio	NOUN	USem4123villaggio	19700	30706	piccolo paese di campagna, abitato umano nelle civilta' primitive.	gruppo di persone che abitano un piccolo borgo, un villagggio.	0.5889222258996748
+villaggio	NOUN	USemD63504villaggio	14130	21060	insieme degli abitanti di un villaggio.	piccolo centro abitato.	0.6262332024796259
+villaggio	NOUN	USemD63504villaggio	19700	30706	insieme degli abitanti di un villaggio.	gruppo di persone che abitano un piccolo borgo, un villagggio.	0.8608832900752886
+votazione	NOUN	USem60950votazione	10588	16570	espressione della propria volonta' attraverso il voto.	espressione della volontà politica dei cittadini.; voto, dichiarazione di volontà.	0.6799100290027693
+votazione	NOUN	USem60950votazione	10589	16574	espressione della propria volonta' attraverso il voto.	valutazione di merito (nella scuola e nei concorsi pubblici) espressa generalmente, ma non solo, in forma numerica.	0.4775135238100428
+yogurt	NOUN	USem70747yogurt	1818	3588	alimento derivato dalla fermentazione del latte.	latte coagulato con un fermento (lactobacillus bulgaricus).	0.6197746440094848
+zucchero	NOUN	USem3663zucchero	717	1685	nome generico dei composti della classe dei carboidrati o glucidi.	sostanza bianca cristallina, derivata dalla barbabietola o dalla canna da zucchero, usata per dolcificare cibi e bevande.	0.6262713770406476
+zucchero	NOUN	USem3664zucchero	717	1685	persona dal carattere dolce e amabile, anche persona melliflua.	sostanza bianca cristallina, derivata dalla barbabietola o dalla canna da zucchero, usata per dolcificare cibi e bevande.	0.7234325678487262
+zucchero	NOUN	USemD1750zucchero	717	1685	sostanza dolcificante.	sostanza bianca cristallina, derivata dalla barbabietola o dalla canna da zucchero, usata per dolcificare cibi e bevande.	0.7210625738519554

@@ -1,0 +1,317 @@
+Test dei lemmi mappati in IWNMAPDB 
+ La media aritmetica delle similarity si trova in fondo al documento
+
+
+abuso NOUN
+SIMPLE: USem74968abuso	uso esagerato e cattivo.
+IWN: 21379	atto d'abuso; il prevaricare.
+0.46138366832282546
+
+
+abuso NOUN
+SIMPLE: USem74968abuso	uso esagerato e cattivo.
+IWN: 21380	uso eccessivo.
+0.9288834282829047
+
+
+accennare VERB
+SIMPLE: USem75161accennare	dar l'idea di voler fare qualcosa.
+IWN: 34605	fare l'atto di.
+0.8334529908066767
+
+
+accennare VERB
+SIMPLE: USem75162accennare	fare cenno, indicare.
+IWN: 34604	esprimersi mediante cenni.
+0.6225413153340509
+
+
+accennare VERB
+SIMPLE: USem75162accennare	fare cenno, indicare.
+IWN: 34605	fare l'atto di.
+0.5479064176956554
+
+
+accennare VERB
+SIMPLE: USem75162accennare	fare cenno, indicare.
+IWN: 34608	indicare q.c.a qc.
+0.7042207336220975
+
+
+accennare VERB
+SIMPLE: USem75164accennare	alludere, parlare in modo approssimativo.
+IWN: 34606	parlare brevemente e superficialmente (fig.).
+0.4865921466745468
+
+
+accennare VERB
+SIMPLE: USem75165accennare	alludere, parlare di sfuggita.
+IWN: 34606	parlare brevemente e superficialmente (fig.).
+0.6005777315162926
+
+
+accesso NOUN
+SIMPLE: USem73722accesso	entrata, luogo per il quale si accede.
+IWN: 21959	apertura che consente l'accesso; il luogo dal quale si passa per entrare.
+0.8954053806467135
+
+
+acclamare VERB
+SIMPLE: USem60765acclamare	eleggere per acclamazione.
+IWN: 32293	approvare ad alta voce.
+0.5098357899794599
+
+
+acclamare VERB
+SIMPLE: USem60765acclamare	eleggere per acclamazione.
+IWN: 32294	eleggere per acclamazione.
+1.0
+
+
+accompagnare VERB
+SIMPLE: USem59865accompagnare	suonare o cantare come sostegno al suono o al canto altrui.
+IWN: 38562	suonare o cantare come sostegno al suono o canto di altri.
+0.9246492686850387
+
+
+accompagnare VERB
+SIMPLE: USem59868accompagnare	andare insieme con qualcuno; scortare.
+IWN: 32466	andare con qlcu. in un luogo scortandolo o mostrandogli la strada.
+0.7332020552961733
+
+
+accompagnare VERB
+SIMPLE: USem59868accompagnare	andare insieme con qualcuno; scortare.
+IWN: 38559	andare insieme (per amicizia, cortesia o rispetto).
+0.7262454576492737
+
+
+area NOUN
+SIMPLE: USem4177area	superficie circoscritta di terreno.
+IWN: 264	superficie, tratto, porzione di terra.
+0.8793191139162564
+
+
+area NOUN
+SIMPLE: USem67915area	misura dell'estensione di una superficie.
+IWN: 19239	la misura di una superficie.
+0.8410231241309366
+
+
+area NOUN
+SIMPLE: USem67929area	sport, parte di un campo da gioco.
+IWN: 264	superficie, tratto, porzione di terra.
+0.6664797525603566
+
+
+complesso NOUN
+SIMPLE: USem69101complesso	insieme.
+IWN: 3045	pluralità di elementi materiali e/o astratti coordinati tra loro.
+0.47105815105149235
+
+
+complesso NOUN
+SIMPLE: USem69104complesso	gruppo di edifici con un una stessa funzione.
+IWN: 3046	insieme organico di edifici, impianti, servizi, destinati ad una particolare funzione.
+0.779382415062067
+
+
+complesso NOUN
+SIMPLE: USemD63535complesso	complesso musicale.
+IWN: 3135	insieme di persone con scopi comuni.
+0.5791476347260429
+
+
+fallire VERB
+SIMPLE: USem64821fallire	non colpire, sbagliare.
+IWN: 35403	non colpire.; non riuscire a colpire.
+0.8845626214992208
+
+
+fallire VERB
+SIMPLE: USemD7307fallire	avere un esito negativo.
+IWN: 32619	ottenere un cattivo esito o una cattiva accoglienza.
+0.8331828122580588
+
+
+gola NOUN
+SIMPLE: USem1774gola	la parte anteriore del collo.
+IWN: 7630	parte del corpo situata all'altezza del collo.
+0.7404040354756596
+
+
+gola NOUN
+SIMPLE: USem67965gola	valle stretta.
+IWN: 8251	varco angusto; vallata angusta ed impervia.
+0.7431955774546437
+
+
+istituzione NOUN
+SIMPLE: USem2808istituzione	organo o ente istituito per un determinato fine.
+IWN: 11820	organo, istituzione; organo, ente.
+0.6887284542112381
+
+
+istituzione NOUN
+SIMPLE: USem7064istituzione	l'istituire.
+IWN: 14123	l'istituire.
+1.0
+
+
+latino NOUN
+SIMPLE: USem1002latino	abitante dell'antico Lazio o antica Roma.
+IWN: 29232	abitante dell'antica Roma o dell'antico Lazio.
+0.9778769914038452
+
+
+latino NOUN
+SIMPLE: USem1044latino	lingua indoeuropea del gruppo italico parlata dalle antiche popolazioni latine, poi diffusasi in Italia e in molte altre regioni europee.
+IWN: 29231	lingua dell'antica Roma e poi del Lazio.
+0.6952076269536014
+
+
+legione NOUN
+SIMPLE: USemD7249legione	unità tattica dell'esercito romano; corpo militare; unità dei Carabinieri e della Guardia di Finannza.
+IWN: 2410	unità tattica dell'esercito dell'antica Roma.
+0.8336950694982053
+
+
+legione NOUN
+SIMPLE: USemD7249legione	unità tattica dell'esercito romano; corpo militare; unità dei Carabinieri e della Guardia di Finannza.
+IWN: 2411	unità organica dell'Arma dei Carabinieri e del Corpo della Guardia di Finanza.
+0.9017997333308757
+
+
+mare NOUN
+SIMPLE: USemD3255mare	il complesso delle acque salate che coprono gran parte della superficie terrestre.
+IWN: 12663	il complesso delle acque salate che coprono gran parte della superficie terrestre.
+1.0
+
+
+materiale NOUN
+SIMPLE: USem3materiale	Tutto ciò che serve per compiere o realizzare un certo lavoro.
+IWN: 18146	l'insieme dei materiali, e dei mezzi che servono ad una determinata attività o impresa.
+0.6238045136181851
+
+
+materiale NOUN
+SIMPLE: USem68406materiale	insieme di oggetti usati per svolgere un'attività.
+IWN: 18146	l'insieme dei materiali, e dei mezzi che servono ad una determinata attività o impresa.
+0.7925133517260347
+
+
+popolare VERB
+SIMPLE: USem76558popolare	occupare un certo luogo per viverci.
+IWN: 38471	occupare un luogo, uno spazio vivendoci...
+0.8420085536318722
+
+
+popolare VERB
+SIMPLE: USem76562popolare	rendere abitato un luogo, andandovi ad abitare.
+IWN: 38472	rendere abitato un luogo mandandoci gruppi di persone.
+0.8193631040267315
+
+
+portare VERB
+SIMPLE: USem79450portare	permettere di raggiungere un determinato luogo.
+IWN: 32466	andare con qlcu. in un luogo scortandolo o mostrandogli la strada.
+0.7562706030994177
+
+
+portare VERB
+SIMPLE: USem79450portare	permettere di raggiungere un determinato luogo.
+IWN: 32792	dare accesso.
+0.5917147849907513
+
+
+portare VERB
+SIMPLE: USem79500portare	accompagnare.
+IWN: 32466	andare con qlcu. in un luogo scortandolo o mostrandogli la strada.
+0.6470328927133562
+
+
+terapia NOUN
+SIMPLE: USem62882terapia	metodo di cura delle malattie.
+IWN: 3469	cura medica.
+0.7222258441195939
+
+
+terapia NOUN
+SIMPLE: USem62882terapia	metodo di cura delle malattie.
+IWN: 3470	branca della medicina che si occupa della cura delle malattie.
+0.6904643365530858
+
+
+trasmettere VERB
+SIMPLE: USem7092trasmettere	comunicare una notizia.
+IWN: 39613	diffondere attraverso i mezzi di telecomunicazione, mandare in onda.
+0.5003167722167283
+
+
+trasmettere VERB
+SIMPLE: USem7092trasmettere	comunicare una notizia.
+IWN: 39614	comunicare per mezzo della radio o di altri sistemi di comunicazione.
+0.5812019723843099
+
+
+trasmettere VERB
+SIMPLE: USem75054trasmettere	diffondere con mezzi di comunicazione.
+IWN: 39613	diffondere attraverso i mezzi di telecomunicazione, mandare in onda.
+0.7968233914522211
+
+
+trasmettere VERB
+SIMPLE: USem75054trasmettere	diffondere con mezzi di comunicazione.
+IWN: 39614	comunicare per mezzo della radio o di altri sistemi di comunicazione.
+0.9031571373341009
+
+
+trasmettere VERB
+SIMPLE: USem79545trasmettere	fare passare da una persona all'altra.
+IWN: 32299	passare un diritto o un onere da un titolare ad un altro.
+0.5123148548408841
+
+
+volume NOUN
+SIMPLE: USem67717volume	intensita' di un suono.
+IWN: 30749	intensità del suono.
+0.6585131700904137
+
+
+volume NOUN
+SIMPLE: USem67718volume	libro.
+IWN: 15346	libro; solo testo.
+0.750887760867319
+
+
+volume NOUN
+SIMPLE: USem69198volume	parte di spazio occupata da un solido.
+IWN: 30746	misura delo spazio occupato da un corpo.
+0.9054951122159415
+
+
+zaffiro NOUN
+SIMPLE: USem4053zaffiro	pietra preziosa di colore azzurro trasparente.
+IWN: 3462	pietra preziosa dal colore azzurro.
+0.7079736080279323
+
+
+zona NOUN
+SIMPLE: USem4135zona	fascia, striscia, porzione di una superficie con eguali caratteristiche.
+IWN: 262	una particolare regione geografica con proprie caratteristiche fisiche, naturali, culturali.
+0.8530559312753343
+
+
+zona NOUN
+SIMPLE: USem4136zona	area cittadina; parte di un agglomerato urbano destinato a una determinata funzione dal piano regolatore.
+IWN: 264	superficie, tratto, porzione di terra.
+0.7790250297837001
+
+
+zona NOUN
+SIMPLE: USem64427zona	parte di superficie delimitata.
+IWN: 264	superficie, tratto, porzione di terra.
+0.862342217805081
+
+MEDIA VALORI DI SIMILARITY:
+0.7458935469387924
