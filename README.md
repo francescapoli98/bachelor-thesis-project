@@ -15,6 +15,7 @@ I dati estrapolati e controllati vengono poi disposti nella struttura formale de
 * Sensi presenti in PSC, non mappati
 * Sensi mappati
 * Sensi presenti in IWN, non mappati
+
 L'insieme di lemmi trattai nel programma è stamapato nell'output *newdataset.txt*.
 Il Sense Inventory è stampato in *corrected_si.txt*. Quest'ultimo output è stato anche trasformato in una risorsa di estensione *.xslx*.
 
