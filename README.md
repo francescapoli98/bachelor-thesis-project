@@ -5,7 +5,7 @@
 Creazione di un Sense Inventory per task di Word Sense Disambiguation ed estensione del mapping di sensibasato sulle risorse ILC4CLARIN/ILC-CNR, con task di annotazione manuale del dataset di frasi e valutazione delle risorse utilizzate. I 
 
 ---
-### Programmi
+### Programmi:
 
 #### Sense Inventory
 ##### repository: *sense_inventory*
@@ -15,7 +15,6 @@ I dati estrapolati e controllati vengono poi disposti nella struttura formale de
 * Sensi presenti in PSC, non mappati
 * Sensi mappati
 * Sensi presenti in IWN, non mappati
-
 L'insieme di lemmi trattai nel programma è stamapato nell'output *newdataset.txt*.
 Il Sense Inventory è stampato in *corrected_si.txt*. Quest'ultimo output è stato anche trasformato in una risorsa di estensione *.xslx*.
 
