@@ -21,7 +21,8 @@ Il Sense Inventory è stampato in *corrected_si.txt*. Quest'ultimo output è sta
 
 #### Estensione del mapping di sensi
 ##### repository: *mapping_extension*
-
+All'interno del programma (*maps.py*) si svolgono due fasi di test per la mappatura dei sensi tra i lessici ItalWordNet e PAROLE-SIMPLE CLIPS attraverso il calcolo della similarità tra vettori di parole tramite [spaCy](https://github.com/explosion/spaCy). Nella prima parte si analizzano i mapping già presente nel database *iwnmapdb* dell'ILC-CNR per arrivare ad un Threshold di similarità tra sensi delle mappature già sviluppate, da applicare a quelle potenziali. Nella seconda parte del codice viene analizzata la *similarity* tra sensi di diversi lemmi (selezionati manualmente) senza alcun senso mappato appunto; similarity che poi è stata confrontata col Threshold trovato precedentemente.
+Il programma prende in input un file con la lista di lemmi mappati (*listamapdb.txt*) per un controllo sui lemmi selezionati manualmente e il formato finale del Sense Inventory (*corrected_si.txt*) per l'estrapolazione di informazioni sui sensi (definizione, IDs). Gli output sono rispettivamente *testmapping.txt* per la prima parte, con la lista di mapping analizzati e la loro *similarity*, oltre che la media aritmetica dell'insieme di similarità che corrisponde al Threshold; per la seconda, invece, *testnonmappati.txt*, in cui si trova l'elenco di mapping con la *similarity* tra tutti i sensi di ogni lemma. 
 
 #### Statistiche di copertura delle risorse 
 ##### repository: *statistics*
