@@ -1,10 +1,11 @@
 # Progetto di tesi interno ad [ELEXIS](https://elex.is/)
 ## Laurea triennale in Informatica Umanistica - a.a. 2019/2020
 
-### Fasi del progetto:
-Creazione di un Sense Inventory per task di Word Sense Disambiguation ed estensione del mapping di sensibasato sulle risorse ILC4CLARIN/ILC-CNR, con task di annotazione manuale del dataset di frasi e valutazione delle risorse utilizzate. I 
-
+## "Sviluppo di un Sense Inventory per task di Word Sense Disambiguation: il progetto ELEXIS"
 ---
+### Fasi del progetto di tesi:
+Creazione di un Sense Inventory per task di Word Sense Disambiguation ed estensione del mapping di sensibasato sulle risorse ILC4CLARIN/ILC-CNR, con task di annotazione manuale del dataset di frasi e valutazione delle risorse utilizzate. 
+
 ### Programmi:
 
 #### Sense Inventory
@@ -26,7 +27,9 @@ Il programma prende in input un file con la lista di lemmi mappati (*listamapdb.
 
 #### Statistiche di copertura delle risorse 
 ##### repository: *statistics*
-
+Il Sense Inventory funge anche da mezzo per un’analisi dell’attuale ampiezza dei database di cui abbiamo usufruito, in particolare per studiare la loro effettiva copertura ed efficienza rispetto alle necessità di ELEXIS e il loro stato dell’arte. Il programma (*stats.py*) serve alla raccolta e al trattamento dei dati ricavati dal Sense Inventory, per elaborare le statistiche necessarie a presentarli e a formulare un'analisi più accurata.
+Il programma prende in input il dataset da cui è stato ricavato il Sense Inventory (*dataset2000wiki_Export_IT_2021-02-22_Corrected_v2.tsv*) per ricreare il processo utilizzato per quest'ultimo, al fine di raccogliere i dati necessari durante l'elaborazione. Nell'output (*statistiche.txt*) sono stampati i risultati dell'analisi con i dati di cui sopra.
 
 #### Selezione di frasi per annotazione manuale
 ##### repository: *sentences_selector*
+Questo semplice programma (*sceltafrasi.py*) prende in input il dataset in formato CoNLL-U (*dataset2000wiki_Export_IT_2021-02-22_Corrected_v2.tsv*) e assegna ad ogni frase in esso contenuta il numero di lemmi presenti in entrambi i database di riferimento, PSC e IWN, per poi stampare tutti i dati nell'output (*sentences.txt*). In questo modo rende più semplice la scelta delle frasi per il task di annotazione manuale. Le frasi sono state poi selezionate manualmente, a causa di alcune particolarità sintattiche da prendere in considerazione a livello non automatico.
