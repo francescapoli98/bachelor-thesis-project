@@ -1,0 +1,30 @@
+STATISTICHE:
+
+Nel dataset sono presenti 4424 lemmi tra nomi, verbi, aggettivi e avverbi.
+I lemmi presenti in iwn sono 3749
+Percentuale di lemmi presenti in iwn: 84.74%e lemmi assenti:15.26%
+I lemmi presenti in psc sono 3060
+Percentuale di lemmi presenti in psc: 69.17%, assenti: 30.83%
+I lemmi con copertura totale (presenti in entrambi i database di IWN e PSC) sono 2949
+I lemmi con copertura parziale sono 911, 800 si trovano solo in IWN e 111 solo in PSC.
+Percentuale di lemmi con copertura totale: 66.7%e parziale: 20.6%
+Il numero totale di sensi mappati è 3461, ovvero il 22.08%
+I lemmi con almeno un mapping sono 2034, ovvero il 45.98%
+I lemmi non mappati con alcun senso invece sono 2389, ovvero il 54.00%
+TOTALE sensi tra IWN e PSC (unione):15672
+Totale sensi IWN:9638
+Totale sensi PSC:6034
+Lemmi presenti sia in PSC sia in IWN (intersezione):2949
+Percentuale di aggettivi e avverbi tra i NON MAPPATI: 51.49%
+Totale lemmi Sense Inventory: 3860
+Numero di sensi nel Sense Inventory:12944
+NUMERO DI POS NEL DATASET:
+Aggettivi:1000
+Avverbi:231
+Nomi:2418
+Verbi:775
+NUMERO DI POS NEL SENSE INVENTORY (lemmi):
+Aggettivi:742
+Avverbi:124
+Nomi:2257
+Verbi:737
