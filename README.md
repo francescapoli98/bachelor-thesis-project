@@ -5,7 +5,7 @@
 #### "Sviluppo di un Sense Inventory per task di Word Sense Disambiguation: il progetto ELEXIS"
 ---
 ### Fasi del progetto di tesi:
-Creazione di un Sense Inventory per task di Word Sense Disambiguation ed estensione del mapping di sensibasato sulle risorse ILC4CLARIN/ILC-CNR, con task di annotazione manuale del dataset di frasi e valutazione delle risorse utilizzate. 
+Creazione di un Sense Inventory per task di Word Sense Disambiguation ed estensione del mapping di sensi basato sulle risorse ILC4CLARIN/ILC-CNR, con task di annotazione manuale del dataset di frasi e valutazione delle risorse utilizzate. 
 
 ### Programmi:
 
