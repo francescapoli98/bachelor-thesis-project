@@ -1,9 +1,11 @@
-# Progetto di tesi interno ad [ELEXIS](https://elex.is/)
-# Laurea triennale in Informatica Umanistica - a.a. 2019/2020
+# Progetto di tesi interno ad [ELEXIS](https://elex.is/) 🎓 Laurea triennale in Informatica Umanistica - a.a. 2019/2020
 
-## Titolo:
-#### "Sviluppo di un Sense Inventory per task di Word Sense Disambiguation: il progetto ELEXIS"
+## "Sviluppo di un Sense Inventory per task di Word Sense Disambiguation: il progetto ELEXIS"
+
 ---
+
+# ITA
+
 ### Fasi del progetto di tesi:
 Creazione di un Sense Inventory per task di Word Sense Disambiguation ed estensione del mapping di sensi basato sulle risorse ILC4CLARIN/ILC-CNR, con task di annotazione manuale del dataset di frasi e valutazione delle risorse utilizzate. 
 
@@ -34,3 +36,39 @@ Il programma prende in input il dataset da cui è stato ricavato il Sense Invent
 #### Selezione di frasi per annotazione manuale
 ##### repository: *sentences_selector*
 Questo semplice programma (*sceltafrasi.py*) prende in input il dataset in formato CoNLL-U (*dataset2000wiki_Export_IT_2021-02-22_Corrected_v2.tsv*) e assegna ad ogni frase in esso contenuta il numero di lemmi presenti in entrambi i database di riferimento, PSC e IWN, per poi stampare tutti i dati nell'output (*sentences.txt*). In questo modo rende più semplice la scelta delle frasi per il task di annotazione manuale. Le frasi sono state poi selezionate manualmente, a causa di alcune particolarità sintattiche da prendere in considerazione a livello non automatico.
+
+---
+
+# ENG
+
+### Thesis project phases:
+Building of a Sense Inventory for Word Sense Disambiguation tasks and extension of sense mapping based on ILC4CLARIN/ILC-CNR resources, with tasks for manual annotation of the phrase dataset and evaluation of the resources used. 
+
+### Programs:
+
+#### Sense Inventory
+##### repository: *sense_inventory*
+The creation of the resource is based on the selection of lemmas from a dataset in CoNLL-U format (*dataset2000wiki_Export_IT_2021-02-22_Corrected_v2.tsv*) derived from the Italian translation of an annotated corpus of sentences developed in ELEXIS, automatically annotated and then reviewed manually and through correction tools in Babelscape.
+The program (*corrected.py*) takes as input the dataset, selects the lemmas extracted from the sentences of which it is composed and searches for all the related senses in the open-source online resources ILC4CLARIN (the Italian lexicons [PAROLE-SIMPLE-CLIPS](https://dspace-clarin-it.ilc.cnr.it/repository/xmlui/handle/20.500.11752/ILC-88?show=full) and [ItalWordNet](https://dspace-clarin-it.ilc.cnr.it/repository/xmlui/handle/20.500.11752/ILC-62)) and ILC-CNR (a sense mapping database of the cited lexicons, *iwnmapdb*). 
+The extrapolated and checked data are then arranged in the formal structure of the Sense Inventory required for the ELEXIS tasks, such that for each lemma - PoS pair:
+* Senses present in PSC, not mapped
+* Mapped senses
+* Senses present in IWN, not mapped.
+
+The set of lemmas treated in the program is stapled in the output *newdataset.txt*.
+The Sense Inventory is printed in *corrected_si.txt*. The latter output has also been transformed into a resource extension *.xslx*.
+
+#### Sense mapping extension
+##### repository: *mapping_extension*
+Within the program (*maps.py*) we carry out two test phases for sense mapping between the ItalWordNet and WORD-SIMPLE CLIPS lexicons by calculating the similarity between word vectors using [spaCy](https://github.com/explosion/spaCy). In the first part the mappings already present in the ILC-CNR database *iwnmapdb* are analysed to arrive at a threshold of similarity between senses of the mappings already developed, to be applied to potential ones. In the second part of the code the *similarity* between senses of different lemmas (manually selected) without any mapped sense is analysed; similarity that was then compared with the Threshold found previously.
+The program takes as input a file with the list of mapped lemmas (*listamapdb.txt*) for a check on the manually selected lemmas and the final format of the Sense Inventory (*corrected_si.txt*) for the extrapolation of information on the senses (definition, IDs). The outputs are respectively *testmapping.txt* for the first part, with the list of analysed mappings and their *similarity*, as well as the arithmetic mean of the set of similarities corresponding to the Threshold; for the second one, instead, *testnonmapped.txt*, where the list of mappings with the *similarity* between all the senses of each lemma is found. 
+
+#### Percentages of resource coverage 
+##### repository: *percents*
+The Sense Inventory also serves as a means for an analysis of the current extent of the databases we have used, in particular to study their actual coverage and efficiency with respect to the needs of ELEXIS and their state of the art. The program (*rates.py*) is used to collect and process the data obtained from the Sense Inventory, to process the numbers needed to present them and to formulate a more accurate analysis.
+The program takes as input the dataset from which the Sense Inventory was derived (*dataset2000wiki_Export_IT_2021-02-22_Corrected_v2.tsv*) and the Sense Inventory (*corrected_si.txt*) to recreate the process used for the latter, in order to collect data during the processing. In the output (*numbers.txt*) the results of the analysis are printed.
+
+#### Selection of sentences for manual annotation
+##### repository: *sentences_selector*
+This simple program (*sentences_selector.py*) takes as input the dataset in CoNLL-U format (*dataset2000wiki_Export_IT_2021-02-22_Corrected_v2.tsv*) and assigns to each sentence contained in it the number of lemmas present in both the reference databases, PSC and IWN, and then prints all the data in the output (*sentences.txt*). This makes it easier to select sentences for the manual annotation task. The sentences were then selected manually, due to some syntactic peculiarities that had to be taken into account on a non-automatic level.
+
