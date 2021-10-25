@@ -1,4 +1,4 @@
-# Progetto di tesi interno ad [ELEXIS](https://elex.is/) 🎓 Laurea triennale in Informatica Umanistica - a.a. 2019/2020
+# Progetto di tesi interno ad [ELEXIS](https://elex.is/) presso l'[ILC-CNR](https://github.com/cnr-ilc)🎓 Laurea triennale in Informatica Umanistica - a.a. 2019/2020
 
 ## "Sviluppo di un Sense Inventory per task di Word Sense Disambiguation: il progetto ELEXIS"
 
